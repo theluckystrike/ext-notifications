@@ -5,7 +5,8 @@
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "test": "echo 'No tests configured' && exit 0"
   },
   "keywords": [
     "chrome-extension",
