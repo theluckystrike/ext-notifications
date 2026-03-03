@@ -4,9 +4,15 @@
   "description": "Beautiful notifications for Chrome extensions",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
   "keywords": [
     "chrome-extension",
     "notifications"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
 }
