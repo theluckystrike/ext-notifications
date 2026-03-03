@@ -1,1 +1,12 @@
-{"name":"ext-notifications","version":"1.0.0","description":"Beautiful notifications for Chrome extensions","main":"lib/index.js","keywords":["chrome-extension","notifications"],"license":"MIT"}
+{
+  "name": "ext-notifications",
+  "version": "1.0.0",
+  "description": "Beautiful notifications for Chrome extensions",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "keywords": [
+    "chrome-extension",
+    "notifications"
+  ],
+  "license": "MIT"
+}
